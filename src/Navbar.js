@@ -5,12 +5,12 @@ const Navbar = () => {
             <div className="links">
                 <a href="#" className='active'>Home</a>
                 <a href="#">About Us</a>
-                <a href="#">Contact Us</a>
                 <a href="#">Services</a>
+                <a href="#">Contact Us</a>
                 <a href="#"> Follow ++</a>
             </div>
         </section>
-        
+
     );
 }
  
